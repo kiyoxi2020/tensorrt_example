@@ -5,8 +5,6 @@ import tensorrt as trt
 import torch
 import os
 import time
-from PIL import Image
-import cv2
 import torchvision
 
 max_batch_size = 1
